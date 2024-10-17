@@ -9,7 +9,7 @@ This project utilizes Tesseract OCR and OpenCV to detect words in images. The pr
 - Display detected text above the bounding boxes
 
 ## Installation
-Ensure you have Python 3.x installed. You can install the required libraries using the following command:
+Ensure you have Python 3.9 installed. You can install the required libraries using the following command:
 
 ```bash
 pip install -r requirements.txt
